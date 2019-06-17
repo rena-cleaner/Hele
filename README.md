@@ -18,6 +18,9 @@ Intel i7
  
  GTX 1080Ti
  - Heavy graphic acceleration is in use to simulate multiple dimension models, particularly for multiplatform infections across more than one architecture, due to realtime compilation and abstraction.
+ 
+ SSD (PCIe Preferred)
+ Hele makes heavy use of real time caching as signatures are generated of files, and hence fast read writes of minimum 500Mbps and ability to maintain fast, rapid IO is cruical in preventing slowdown and traffic management as files cannot be processed fast enough.
 ```
 ## Versioning
 
