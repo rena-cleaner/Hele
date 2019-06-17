@@ -4,6 +4,10 @@ Hele is a platform agnostic system cleaner, able to locate and terminate most co
 
 This software is compatible with multiple modern architectures such as ARM, x86, RISC microcontrollers, and so on, but requires a standard, x86 PC host of capable power.
 
+This software is in active development, please contact for a key.
+
+We only accept payment in Bitcoin, with multiple packages available, both as a rolling contract and a temporary access for beta testing in your application.
+
 ## Getting Started
 
 Compiling occurs by supplying the serial provided upon purchase of a license, which allows you to make a custom build with the components you require.
@@ -23,6 +27,7 @@ Via the root, at the index, the following commands are available:
  
 - /dir
  This command is followed by the directory, relative to installation directory.
+ 
 ### Prerequisites
 
 What things you need to install the software and how to install them
