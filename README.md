@@ -8,6 +8,21 @@ This software is compatible with multiple modern architectures such as ARM, x86,
 
 Compiling occurs by supplying the serial provided upon purchase of a license, which allows you to make a custom build with the components you require.
 
+Via the root, at the index, the following commands are available:
+
+- /device
+ This command is followed by the device class, being one of:
+  - Phone
+  - Smart Watch
+  - Storage
+  - Computer
+  - Microcontroller Embedded
+  
+- /r
+ This command controls whether scan is recursive or only top level in dir provided
+ 
+- /dir
+ This command is followed by the directory, relative to installation directory.
 ### Prerequisites
 
 What things you need to install the software and how to install them
